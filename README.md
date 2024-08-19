@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at **i2M -Mann Hummel Company as a Software Developer Intern**
+- 🔭 I’m currently working at **i2M - Mann+Hummel as a Software Developer**
 
 - 🌱 I’m currently learning **AWS and cloud computing**
 
