@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at **i2M - Mann+Hummel as a Software Developer**
+- 🔭 I’m currently working at **Amazon Web Services(AWS) as an SDE**
 
 - 🌱 I’m currently learning **AWS and cloud computing**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [link to resume](https://drive.google.com/file/d/1LQ0GChnyl6J5twBvK6M3k69va_r5iRqG/view?usp=sharing)
 
-- ⚡ Fun fact **I love music and driving**
+- ⚡ Fun fact **I love music, singing and driving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
