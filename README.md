@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
-<h3 align="center">A passionate Software Engineer with a MS in CS from NC State Univeristy, USA and 2+ years experience in Full Stack and Backend Development currently located in San Jose, CA.</h3>
+<h3 align="center">A passionate Software Engineer with a MS in CS from NC State Univeristy, USA and 2+ years experience in Backend and Full Stack Development currently located in Seattle, WA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankettangade&label=Profile%20views&color=0e75b6&style=flat" alt="sankettangade" /> </p>
 
@@ -9,15 +9,11 @@
 
 - 🔭 I’m currently working at **Amazon Web Services(AWS) as an SDE**
 
-- 🌱 I’m currently learning **AWS and cloud computing**
-
-- 💬 Ask me about **Python, Java, AWS, Spring boot, React, SQL, and DevOps**
-
 - 📫 How to reach me **sankettangade1@gmail.com**
 
 - 📄 Know about my experiences [link to resume](https://drive.google.com/file/d/1LQ0GChnyl6J5twBvK6M3k69va_r5iRqG/view?usp=sharing)
 
-- ⚡ Fun fact **I love music, singing and driving**
+- ⚡ Fun fact **I love music and long drives**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -149,5 +145,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankettangade&show_icons=true&locale=en&layout=compact" alt="sankettangade" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankettangade&show_icons=true&locale=en" alt="sankettangade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankettangade&" alt="sankettangade" /></p>
