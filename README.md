@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at **Amazon Web Services(AWS) as an SDE**
+- 🔭 I’m currently working at **Amazon Web Services(AWS) as a Software Dev Engineer**
 
 - 📫 How to reach me **sankettangade1@gmail.com**
 
