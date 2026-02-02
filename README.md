@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
-<h3 align="center">Software Engineer @AWS | MS in CS from NC State | Backend Developer passionate about scalable solutions and cloud services</h3>
+<h3 align="center">Software Engineer @AWS | MS in CS from NC State | Backend Developer passionate about cloud services and scalable solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankettangade&label=Profile%20views&color=0e75b6&style=flat" alt="sankettangade" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankettangade" alt="sankettangade" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working at **Amazon Web Services(AWS) as a Software Dev Engineer**
 
@@ -146,7 +142,3 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 	</a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankettangade&show_icons=true&locale=en&layout=compact" alt="sankettangade" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankettangade&show_icons=true&locale=en" alt="sankettangade" /></p>
