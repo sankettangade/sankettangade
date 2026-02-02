@@ -142,3 +142,8 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 	</a>
 </p>
+<h3 align="left">📈 Stats:</h3> 
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sankettangade&theme=tokyonight" />
+</p>
